@@ -1,8 +1,10 @@
-Make a repository called 'Boerhaaf'   
+A repository is called after a famous Scientist from Leiden.   
 In it, there is a file that, in the end, should contain all the names of our 'class'.   
-The file is forked onto your repository.      
-If you get it, add your name, and fork it to the next member.   
+The file must be forked onto your repository.      
+If you've forked it, add another name, and send an email to the next member, containing the name of your GH-account.   
+Each new name starts at a new line.
 The last one in the chain thinks of something funny (no pressure).   
-It should be a great way to check if everything works, and to get some gitpractice.   
+It should be a great way to check if everything works, and to get some gitpractice.
+After completing this, it shoud be no problem at all to pass the test.
 Edwin.   
-Eric.   
+Anton-Jan.   
