@@ -5,6 +5,6 @@ If you've forked it, add another name, and send an email to the next member, con
 Each new name starts at a new line.     
 The last one in the chain thinks of something funny (no pressure).         
 It should be a great way to check if everything works, and to get some gitpractice.    
-After completing this, it shoud be no problem at all to pass the test.    
+After completing this, it should be no problem at all to pass the test.    
 Edwin.       
 Anton-Jan.       
